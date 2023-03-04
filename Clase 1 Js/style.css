@@ -1,0 +1,84 @@
+
+.main-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.main-container-user{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.boton {
+    padding: 5px 40px;
+    margin: 0px 20px;
+    font-family: 'Arial';
+    font-size: 14px;
+    border-radius: 30px;
+    border: 3px solid;
+}
+
+.btn-Dylan:hover {
+    background-color: rgb(147, 67, 176);
+    color: rgb(203, 200, 201);
+    font-size: 17px; 
+}
+
+.btn-Valeria:hover {
+    background-color: rgb(147, 67, 176);
+    color: rgb(203, 200, 201);
+    font-size: 17px; 
+}
+
+.btn-Juan:hover {
+    background-color: rgb(147, 67, 176);
+    color: rgb(203, 200, 201);
+    font-size: 17px; 
+}
+
+
+.acciones {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.btn-acciones {
+    margin: 20px 0px;
+    font-size: 12px;
+}
+
+.btn-acciones:hover {
+    background-color: rgb(147, 67, 176);
+    color: rgb(203, 200, 201);
+    font-size: 15px; 
+}
+
+
+.bienvenido-usuario {
+    font-family: sans-serif;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    color: rgb(243, 229, 177);
+}
+
+.pregunta-usuario {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 3px;
+    color: rgb(243, 229, 177);
+}
+
+.logonombre {
+    font-family: sans-serif;
+    font-size: 10px;
+    margin-left: 14px;
+    color: rgb(243, 229, 177);
+}
